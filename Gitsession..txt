@@ -1,0 +1,23 @@
+ git add index.html
+-->to track a file
+//git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   index.html
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        Gitsession..txt
+        Resume.html
+
+
+git commit -m "Initial commit"
+
+git config  --global user.email "youremail"
+git conif --global user.name "name"
+
+-->change data in any file
