@@ -24,3 +24,7 @@ git conif --global user.name "name"
 
 git log
 all the changes are displayed
+
+git add .--> to add all files
+git clone "url "
+to clone it into local machine
