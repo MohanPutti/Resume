@@ -21,3 +21,6 @@ git config  --global user.email "youremail"
 git conif --global user.name "name"
 
 -->change data in any file
+
+git log
+all the changes are displayed
