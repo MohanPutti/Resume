@@ -26,8 +26,11 @@ git log
 all the changes are displayed
 
 git remote add origin "url"
-upload files to github
+to establish a connection 
 
 git add .--> to add all files
 git clone "url "
 to clone it into local machine
+
+git push -u origin master
+//pushing files to github
